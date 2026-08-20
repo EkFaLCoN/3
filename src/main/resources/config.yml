@@ -1,0 +1,5 @@
+# CursedClasses
+config-version: 1
+
+# Seviye ilerlemesi: yaratik 1, oyuncu 10 puan. Kalkan icin engellenen her 20 hasar 1 puan.
+# Seviye esikleri koda gomulu: 25, 60, 120, 200, 320, 480, 700, 1000, 1400
